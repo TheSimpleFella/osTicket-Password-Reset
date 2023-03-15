@@ -1,8 +1,8 @@
 # osTicket-Password-Reset
 Resetting a users password with osTicket.
 
-# osticket-installation
-19 Simple steps to install osTicket successfully.
+
+8 Simple steps to reset a users password in osTicket successfully.
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
