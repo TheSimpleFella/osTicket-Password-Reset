@@ -8,7 +8,7 @@ Resetting a users password with osTicket.
 </p>
 
 <h1>osTicket - Easy password reset.</h1>
-I already set up the osTicket in another lab. Check out my 19 sEast staeps to set up osTicket tutorial.<br />
+I already set up the osTicket in another lab. Check out my "19 Easy Steps to install osTicket" tutorial.<br />
 
 
 <h2>Environments and Technologies Used</h2>
