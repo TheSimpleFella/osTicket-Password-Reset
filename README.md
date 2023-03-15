@@ -21,7 +21,7 @@ I already set up the osTicket in another lab. Check out my "19 Easy Steps to ins
 
 - Windows 10</b> (21H2)
 
-<h2>List of Steps to reset a users password within osTicket successfully. I set up two VM's (Virtual Machines). I also set up two pretend users. One user "Ken" couldn't log into his account. "Karen", Ken's teamate messasged the administrator so Ken could gain access to his account again.  The administrator is "Mike Daddy".</h2>
+<h2>List of steps to reset a users password within osTicket successfully. I set up two VM's (Virtual Machines). I also set up two pretend users. One user "Ken" couldn't log into his account. "Karen", Ken's teamate messaged the administrator so Ken could gain access to his account again.  The administrator is "Mike Daddy".</h2>
 
 -1.Ken couldn't sign into his account.
 
